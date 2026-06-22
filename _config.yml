@@ -1,0 +1,22 @@
+# Site identity
+title: "An Empirically Grounded Reference Architecture for Software Supply Chain Metadata Management"
+description: "A Systematisation of Knowledge (SoK) presenting an empirically grounded Reference Architecture for Software Supply Chain Metadata Management (SCM2), built from 11 SSC security frameworks and validated against 5 prominent tools."
+author: "Nguyen Khoi Tran, Samodha Pallewatta, M. Ali Babar"
+
+# Deployment
+baseurl: "/webpage-ease2024-ssctrust-metadata-management"
+url: "https://nguyentran0212.github.io"
+
+# Markdown engine
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (none for now — keep it simple)
+plugins: []
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
